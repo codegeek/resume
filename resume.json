@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "theme": "even"
+  },
+  "basics": {
+    "name": "Guillermo Castro",
+    "label": "Senior Software Engineer | Back-end Development, Cloud Solutions",
+    "image": "https://avatars.githubusercontent.com/u/39493477?s=460&v=4",
+    "email": "guillermo.castro@gmail.com",
+    "phone": "+52.81.8162.3288",
+    "website": "https://javageek.org",
+    "summary": "As a seasoned software developer with over 25 years of experience, I have a proven track record of delivering mission-critical business applications for companies across various sectors, including retail and finance. My expertise lies in implementing and rolling out scalable solutions, with a strong focus on learning and getting things done.",
+    "location": {
+      "city": "Monterrey",
+      "countryCode": "MX",
+      "region": "Nuevo Leon"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "javageek",
+        "url": "https://www.linkedin.com/in/javageek"
+      },
+      {
+        "network": "Github",
+        "username": "codegeek",
+        "url": "https://github.com/codegeek"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Zeitview",
+      "position": "Senior Software Engineer II",
+      "startDate": "2024-10",
+      "location": "Remote",
+      "url": "https://zeitview.com",
+      "highlights": [
+        "Developed back-end software for Asset Intelligence & Visualization, significantly improving operational efficiency for critical infrastructure.",
+        "Designed and implemented an asset condition scoring system using Spring technologies, enhancing cloud-native deployment strategies.",
+        "Collaborated with remote teams through code reviews and pull requests, ensuring compliance with industry standards.",
+        "Leveraged AI coding tools like GitHub Copilot to streamline development processes and increase productivity."
+      ],
+      "url": "https://zeitview.com"
+    },
+    {
+      "name": "Fusivo LLC",
+      "position": "Owner",
+      "startDate": "2009-08",
+      "location": "Remote",
+      "url": "https://fusivo.com",
+      "highlights": [
+        "Founded and operated Fusivo LLC, providing specialized IT consulting services in back-end development using Java and Python.",
+        "Delivered high-quality code solutions that improved client systems and processes, enhancing overall efficiency.",
+        "Fostered strong communication with clients, ensuring technical requirements were met and expectations exceeded."
+      ]
+    },
+    {
+      "name": "Savoir Technologies, Inc",
+      "position": "Computer Systems Analyst",
+      "startDate": "2010-06",
+      "endDate": "2024-10",
+      "location": "Remote",
+      "url": "https://www.savoirtech.com",
+      "highlights": [
+        "Collaborated with clients to deliver tailored consulting services and software development solutions.",
+        "Provided on-site, hybrid, and remote support, ensuring flexibility and responsiveness to client needs.",
+        "Received consistent positive feedback for enhancing operational efficiency and project outcomes."
+      ]
+    },
+    {
+      "name": "Cengage Group",
+      "position": "Softwre Consultant",
+      "startDate": "2019-08",
+      "endDate": "2024-03",
+      "location": "Remote",
+      "url": "https://www.cengage.com",
+      "highlights": [
+        "Developed and implemented an API integration for intra-corporate use using Spring Boot.",
+        "Designed and maintained a gateway system connecting multiple Learning Management Systems with Cengage Content Systems.",
+        "Utilized various APIs, including LTI Advantage, to enhance tool interoperability across platforms."
+      ]
+    },
+    {
+      "name": "Ofice Depot, LLC",
+      "position": "Software Consultant",
+      "startDate": "2018-05",
+      "endDate": "2019-06",
+      "location": "Boca Raton, FL",
+      "url": "https://www.officedepot.com",
+      "highlights": [
+        "Designed and implemented microservices using Camel and Spring Boot for seamless enterprise integration.",
+        "Deployed applications on AWS and on-premises using Kubernetes, Jenkins, and Rancher.",
+        "Utilized Splunk, Dynatrace, and ELK for troubleshooting, enhancing system reliability and performance."
+      ]
+    },
+    {
+      "name": "Ferguson",
+      "position": "Software Consultant",
+      "startDate": "2017-12",
+      "endDate": "2018-04",
+      "location": "Newport News, VA - Remote",
+      "url": "https://www.ferguson.com",
+      "highlights": [
+        "Designed and implemented a microservices-oriented REST backend platform for e-commerce applications.",
+        "Utilized Docker and OpenShift for continuous development and integration, enhancing deployment efficiency.",
+        "Collaborated with cross-functional teams to ensure seamless integration of new features and technologies.",
+        "Contributed to Ferguson Enterprises' growth by improving system scalability and performance."
+      ]
+    },
+    {
+      "name": "Ella Paradis",
+      "position": "Director of Information Technology",
+      "startDate": "2017-06",
+      "endDate": "2017-11",
+      "location": "Miami, FL",
+      "url": "https://www.ellaparadis.com",
+      "highlights": [
+        "Directed an external development team to enhance technology solutions and provide comprehensive IT support.",
+        "Designed a REST API microservices application, streamlining fulfillment, order management, and inventory tracking.",
+        "Improved system efficiency, contributing to a more agile operational framework at Ella Paradis."
+      ]
+    },
+    {
+      "name": "Manheim",
+      "position": "Software Consultant",
+      "startDate": "2016-10",
+      "endDate": "2016-12",
+      "location": "Atlanta, GA",
+      "url": "https://www.manheim.com",
+      "summary": "Development and support of multiple backend systems using Open-Source frameworks Apache Camel, Karaf, ActiveMQ."
+    },
+    {
+      "name": "Zappos.com",
+      "position": "Software Consultant",
+      "startDate": "2009-10",
+      "endDate": "2016-09",
+      "location": "Las Vegas, NV",
+      "url": "https://www.zappos.com",
+      "highlights": [
+        "Implemented robust backend systems for Zappos using modern frameworks like Spring.",
+        "Established API connections to external systems including Stripe and AWS, enhancing operational efficiency.",
+        "Streamlined internal systems for product categorization and warehouse management, improving inventory accuracy."
+      ]
+    },
+    {
+      "name": "LeapFrog Enterprises",
+      "position": "Software Consultant",
+      "startDate": "2008-01",
+      "endDate": "2009-01",
+      "location": "Emeryville, CA - Remote",
+      "url": "https://www.leapfrog.com",
+      "highlights": [
+        "Developed SOA-based services for the Leapfrog Connect application Leaning Path, enhancing user engagement and functionality.",
+        "Utilized Open Source frameworks such as Spring, Apache CXF, and Mule to streamline service integration.",
+        "Collaborated with cross-functional teams to optimize Oracle PL/SQL queries, improving data retrieval efficiency by 30%."
+      ]
+    },
+    {
+      "name": "H-E-B",
+      "position": "Senior Developer",
+      "startDate": "2005-07",
+      "endDate": "2007-12",
+      "location": "Monterrey, Mexico",
+      "url": "https://www.heb.com",
+      "summary": "Designed and developed multiple internal systems using Spring, Struts, JEE, WebSphere, Sun ONE, JBoss, Oracle, MySQL, Teradata."
+    },
+    {
+      "name": "Softtek",
+      "position": "Senior Developer",
+      "startDate": "2004-06",
+      "endDate": "2005-06",
+      "location": "Monterrey, Mexico",
+      "url": "https://www.softtek.com",
+      "summary": "Software consulting for Softtek clients in the US, including GE Wind and Citigroup, on-site and remote."
+    },
+    {
+      "name": "IIDEA Solutions",
+      "position": "Software Architect",
+      "startDate": "2003-11",
+      "endDate": "2004-02",
+      "location": "Monterrey, Mexico",
+      "url": "https://www.facebook.com/IIDEAsolutions/",
+      "highlights": [
+        "Designed and implemented ERP applications using .NET, C#, and ASP.NET, enhancing operational efficiency.",
+        "Established a robust distributed system authentication infrastructure, ensuring secure access and data integrity.",
+        "Trained new personnel on software methodologies and programming standards, fostering a culture of excellence."
+      ]
+    },
+    {
+      "name": "FEMSA Comercio",
+      "position": "Senior Developer",
+      "startDate": "2001-08",
+      "endDate": "2003-06",
+      "location": "Monterrey, Mexico",
+      "url": "https://www.femsa.com",
+      "highlights": [
+        "Designed and deployed multiple e-commerce platforms utilizing ATG Dynamo Commerce Server and J2EE.",
+        "Established a standardized development environment with CVS, Ant, and Eclipse to streamline processes.",
+        "Collaborated with external consultants to enhance project outcomes and ensure timely delivery."
+      ]
+    },
+    {
+      "name": "eMonterrey",
+      "position": "Project Leader",
+      "startDate": "2000-11",
+      "endDate": "2001-02",
+      "location": "Monterrey, Mexico",
+      "summary": "Designed and implemented an online forum system in PHP. Trained new hires on Object Oriented Programming, Java, and UML concepts."
+    },
+    {
+      "name": "Dextra Technologies",
+      "position": "Senior Consultant",
+      "startDate": "1997-06",
+      "endDate": "2000-10",
+      "location": "Monterrey, Mexico",
+      "url": "https://www.dextratech.com",
+      "summary": "Designed and developed multiple Java based systems for Dextra Technologies’ clients including Inktomi, Apple, Portal Software, and other companies in the financial and tech market."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Monterrey Institute of Technology",
+      "area": "Engineering Physics",
+      "studyType": "B.S.",
+      "startDate": "1991-08",
+      "endDate": "1996-06",
+      "courses": [
+        "Physics Engineering",
+        "Electronics"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Python",
+        "Kotlin",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Expert",
+      "keywords": [
+        "Spring",
+        "Spring Boot",
+        "Apache Camel",
+        "Quarkus"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Expert",
+      "keywords": [
+        "Git",
+        "Github",
+        "Intellij IDEA",
+        "VS Code",
+        "Android Studio"
+      ]
+    },
+    {
+      "name": "Devops",
+      "level": "Advanced",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Ansible"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Software Technologies",
+      "keywords": [
+        "New technologies",
+        "Industry trends"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "PC"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "reference": "Guillermo has been a key member of my software engineering team at Cengage. He is our resident Java subject matter expert; serving as both a mentor and an excellent engineer. He has played a large part in the improvement of our development process as well as bringing our aging code up to modern standards. Guillermo is a great team member. Easy to get along with and adds a lot to the our culture. He will be dearly missed on the Gateway team.",
+      "name": "Paul Vaillancourt, Software Engineering Manager at Cengage Group"
+    },
+    {
+      "reference": "Guillermo has been core to the development skill that separates Mystic from its competitors. His wealth of knowledge for technology, and the voracity which he consumes new information is impressive. As someone who has watched his skills grow over the years, and snapped him up to work on many of the interesting projects that Mystic takes on, he is definitely a cut above.",
+      "name": "Andrew Lombardi, Founder and Principal Architect at Mystic Coders"
+    },
+    {
+      "reference": "Guillermo is a top notch Software Engineer, passionate about his work and about tendencies in the Development field. It is always a pleasure to work with him.",
+      "name": "Teresa Guerena, Project Leader at Softtek"
+    }
+  ]
+}
