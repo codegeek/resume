@@ -9,7 +9,7 @@
     "email": "guillermo.castro@gmail.com",
     "phone": "+52.81.8162.3288",
     "website": "https://javageek.org",
-    "summary": "As a seasoned software developer with over 25 years of experience, I have a proven track record of delivering mission-critical business applications for companies across various sectors, including retail and finance. My expertise lies in implementing and rolling out scalable solutions, with a strong focus on learning and getting things done.",
+    "summary": "As a seasoned software developer with over 25 years of experience, I have a proven track record of delivering mission-critical business applications for companies across various sectors, including retail and finance. I specialize in implementing scalable solutions with a keen focus on continuous learning and efficient execution.",
     "location": {
       "city": "Monterrey",
       "countryCode": "MX",
@@ -30,19 +30,6 @@
   },
   "work": [
     {
-      "name": "Zeitview",
-      "position": "Senior Software Engineer II",
-      "startDate": "2024-10",
-      "location": "Remote",
-      "url": "https://zeitview.com",
-      "highlights": [
-        "Developed back-end software for Asset Intelligence & Visualization, significantly improving operational efficiency for critical infrastructure.",
-        "Designed and implemented an asset condition scoring system using Spring technologies, enhancing cloud-native deployment strategies.",
-        "Collaborated with remote teams through code reviews and pull requests, ensuring compliance with industry standards.",
-        "Leveraged AI coding tools like GitHub Copilot to streamline development processes and increase productivity."
-      ]
-    },
-    {
       "name": "Fusivo LLC",
       "position": "Owner",
       "startDate": "2009-08",
@@ -52,6 +39,20 @@
         "Founded and operated Fusivo LLC, providing specialized IT consulting services in back-end development using Java and Python.",
         "Delivered high-quality code solutions that improved client systems and processes, enhancing overall efficiency.",
         "Fostered strong communication with clients, ensuring technical requirements were met and expectations exceeded."
+      ]
+    },
+    {
+      "name": "Zeitview",
+      "position": "Senior Software Engineer II",
+      "startDate": "2024-10",
+      "endDate": "2025-08",
+      "location": "Remote",
+      "url": "https://zeitview.com",
+      "highlights": [
+        "Developed back-end software for Asset Intelligence & Visualization, significantly improving operational efficiency for critical infrastructure.",
+        "Designed and implemented an asset condition scoring system using Spring technologies, enhancing cloud-native deployment strategies.",
+        "Collaborated with remote teams through code reviews and pull requests, ensuring compliance with industry standards.",
+        "Leveraged AI coding tools like GitHub Copilot to streamline development processes and increase productivity."
       ]
     },
     {
