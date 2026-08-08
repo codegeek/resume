@@ -9,7 +9,7 @@
     "email": "guillermo.castro@gmail.com",
     "phone": "+52.81.8162.3288",
     "website": "https://javageek.org",
-    "summary": "As a seasoned software developer with over 25 years of experience, I have a proven track record of delivering mission-critical business applications for companies across various sectors, including retail and finance. I specialize in implementing scalable solutions with a keen focus on continuous learning and efficient execution.",
+    "summary": "Senior back-end engineer with nearly 30 years building and scaling Java and Python systems for retail, e-commerce, and finance; from microservices and cloud-native platforms to integration and messaging infrastructure. Recognized by teams as a Java subject-matter expert and mentor, with recent focus on AI-assisted development workflows (GitHub Copilot, Claude Code, Cursor) to accelerate delivery and modernize legacy codebases.",
     "location": {
       "city": "Monterrey",
       "countryCode": "MX",
@@ -36,9 +36,9 @@
       "location": "Remote",
       "url": "https://fusivo.com",
       "highlights": [
-        "Founded and operated Fusivo LLC, providing specialized IT consulting services in back-end development using Java and Python.",
+        "Founded Fusivo LLC as a corp-to-corp consulting vehicle to contract with Savoir Technologies on back-end development engagements.",
         "Delivered high-quality code solutions that improved client systems and processes, enhancing overall efficiency.",
-        "Fostered strong communication with clients, ensuring technical requirements were met and expectations exceeded."
+        "Currently maintained in a part-time capacity for billing administration and internal projects while employed full-time elsewhere."
       ]
     },
     {
@@ -46,12 +46,14 @@
       "position": "Senior Software Development Engineer",
       "startDate": "2025-11",
       "endDate": "2026-08",
+      "location": "Remote",
       "url": "https://www.zillow.com",
       "highlights": [
-        "Worked with the communications platform team to coordinate, develop, and maintain services for sending all communication from Zillow to the clients.",
-        "Developed new system for sending push notifications to mobile devices (iOS, Android) using third parties (Airship).",
-        "Migrated multiple services from legacy platforms and legacy code (Spring Boot upgrades, Kubernetes).",
-        "Leveraged multiple AI resources (Claude code, Cursor, Codex) daily to increase performance, including creating multiple skills and plugins for daily project tracking, and knowledge base with Obsidian."
+        "Worked with the communications platform team to coordinate, develop, and maintain services for sending all communication from Zillow to the clients using remote collaboration tools (Gitlab, Slack, JIRA, Confluence, Zoom).",
+        "Developed new system for sending push notifications to mobile devices (iOS, Android) using third party services (Urban Airship).",
+        "Migrated multiple services from legacy platforms and legacy code (Spring Boot upgrades, Kubernetes, Terraform).",
+        "Leveraged multiple AI resources (Claude Code, Cursor, Codex, Glean) daily to increase performance, including creating multiple skills and plugins for daily project tracking, and a knowledge base with Obsidian.",
+        "Maintained multiple services using observability and monitoring tools (CloudWatch, Datadog, Splunk, Grafana, Databricks)."
       ]
     },
     {
@@ -62,28 +64,24 @@
       "location": "Remote",
       "url": "https://zeitview.com",
       "highlights": [
-        "Developed back-end software for Asset Intelligence & Visualization, significantly improving operational efficiency for critical infrastructure.",
+        "Developed back-end software using Spring Boot for Asset Intelligence & Visualization, significantly improving operational efficiency for critical infrastructure.",
         "Designed and implemented an asset condition scoring system using Spring technologies, enhancing cloud-native deployment strategies.",
-        "Collaborated with remote teams through code reviews and pull requests, ensuring compliance with industry standards.",
+        "Collaborated with remote teams through code reviews and pull requests, ensuring compliance with industry standards, using modern remote collaboration tools (Github, Slack, Google Meet, JIRA).",
         "Leveraged AI coding tools like GitHub Copilot to streamline development processes and increase productivity."
       ]
     },
     {
       "name": "Savoir Technologies, Inc",
       "position": "Computer Systems Analyst",
-      "startDate": "2010-06",
+      "startDate": "2009-10",
       "endDate": "2024-10",
       "location": "Remote",
       "url": "https://www.savoirtech.com",
-      "highlights": [
-        "Collaborated with clients to deliver tailored consulting services and software development solutions.",
-        "Provided on-site, hybrid, and remote support, ensuring flexibility and responsiveness to client needs.",
-        "Received consistent positive feedback for enhancing operational efficiency and project outcomes."
-      ]
+      "summary": "Consulting and staffing partner through which client engagements at Cengage Group, Office Depot, Ferguson, Manheim, and Zappos (each detailed separately below) were contracted."
     },
     {
       "name": "Cengage Group",
-      "position": "Softwre Consultant",
+      "position": "Software Consultant (via Savoir Technologies)",
       "startDate": "2019-08",
       "endDate": "2024-03",
       "location": "Remote",
@@ -95,8 +93,8 @@
       ]
     },
     {
-      "name": "Ofice Depot, LLC",
-      "position": "Software Consultant",
+      "name": "Office Depot, LLC",
+      "position": "Software Consultant (via Savoir Technologies)",
       "startDate": "2018-05",
       "endDate": "2019-06",
       "location": "Boca Raton, FL",
@@ -109,7 +107,7 @@
     },
     {
       "name": "Ferguson",
-      "position": "Software Consultant",
+      "position": "Software Consultant (via Savoir Technologies)",
       "startDate": "2017-12",
       "endDate": "2018-04",
       "location": "Newport News, VA - Remote",
@@ -129,6 +127,7 @@
       "location": "Miami, FL",
       "url": "https://www.ellaparadis.com",
       "highlights": [
+        "Engaged directly, independent of the Savoir Technologies consulting relationship, between client placements.",
         "Directed an external development team to enhance technology solutions and provide comprehensive IT support.",
         "Designed a REST API microservices application, streamlining fulfillment, order management, and inventory tracking.",
         "Improved system efficiency, contributing to a more agile operational framework at Ella Paradis."
@@ -136,16 +135,16 @@
     },
     {
       "name": "Manheim",
-      "position": "Software Consultant",
+      "position": "Software Consultant (via Savoir Technologies)",
       "startDate": "2016-10",
       "endDate": "2016-12",
       "location": "Atlanta, GA",
       "url": "https://www.manheim.com",
-      "summary": "Development and support of multiple backend systems using Open-Source frameworks Apache Camel, Karaf, ActiveMQ."
+      "summary": "Development and support of multiple backend systems using Open-Source frameworks Apache Camel, Karaf, ActiveMQ, PostgreSQL."
     },
     {
       "name": "Zappos.com",
-      "position": "Software Consultant",
+      "position": "Software Consultant (via Savoir Technologies)",
       "startDate": "2009-10",
       "endDate": "2016-09",
       "location": "Las Vegas, NV",
@@ -170,65 +169,12 @@
       ]
     },
     {
-      "name": "H-E-B",
-      "position": "Senior Developer",
-      "startDate": "2005-07",
+      "name": "Earlier Experience",
+      "position": "Senior Developer / Software Consultant",
+      "startDate": "1996-08",
       "endDate": "2007-12",
       "location": "Monterrey, Mexico",
-      "url": "https://www.heb.com",
-      "summary": "Designed and developed multiple internal systems using Spring, Struts, JEE, WebSphere, Sun ONE, JBoss, Oracle, MySQL, Teradata."
-    },
-    {
-      "name": "Softtek",
-      "position": "Senior Developer",
-      "startDate": "2004-06",
-      "endDate": "2005-06",
-      "location": "Monterrey, Mexico",
-      "url": "https://www.softtek.com",
-      "summary": "Software consulting for Softtek clients in the US, including GE Wind and Citigroup, on-site and remote."
-    },
-    {
-      "name": "IIDEA Solutions",
-      "position": "Software Architect",
-      "startDate": "2003-11",
-      "endDate": "2004-02",
-      "location": "Monterrey, Mexico",
-      "url": "https://www.facebook.com/IIDEAsolutions/",
-      "highlights": [
-        "Designed and implemented ERP applications using .NET, C#, and ASP.NET, enhancing operational efficiency.",
-        "Established a robust distributed system authentication infrastructure, ensuring secure access and data integrity.",
-        "Trained new personnel on software methodologies and programming standards, fostering a culture of excellence."
-      ]
-    },
-    {
-      "name": "FEMSA Comercio",
-      "position": "Senior Developer",
-      "startDate": "2001-08",
-      "endDate": "2003-06",
-      "location": "Monterrey, Mexico",
-      "url": "https://www.femsa.com",
-      "highlights": [
-        "Designed and deployed multiple e-commerce platforms utilizing ATG Dynamo Commerce Server and J2EE.",
-        "Established a standardized development environment with CVS, Ant, and Eclipse to streamline processes.",
-        "Collaborated with external consultants to enhance project outcomes and ensure timely delivery."
-      ]
-    },
-    {
-      "name": "eMonterrey",
-      "position": "Project Leader",
-      "startDate": "2000-11",
-      "endDate": "2001-02",
-      "location": "Monterrey, Mexico",
-      "summary": "Designed and implemented an online forum system in PHP. Trained new hires on Object Oriented Programming, Java, and UML concepts."
-    },
-    {
-      "name": "Dextra Technologies",
-      "position": "Senior Consultant",
-      "startDate": "1997-06",
-      "endDate": "2000-10",
-      "location": "Monterrey, Mexico",
-      "url": "https://www.dextratech.com",
-      "summary": "Designed and developed multiple Java based systems for Dextra Technologies’ clients including Inktomi, Apple, Portal Software, and other companies in the financial and tech market."
+      "summary": "Designed and developed enterprise Java, .NET, and Oracle/PL-SQL systems across six roles at Dextra Technologies, eMonterrey, FEMSA Comercio, IIDEA Solutions, Softtek, and H-E-B, spanning e-commerce platforms, ERP applications, and SOA integration for clients including Inktomi, Apple, Portal Software, GE Wind, and Citigroup."
     }
   ],
   "education": [
@@ -247,7 +193,7 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "level": "Master",
+      "level": "Expert",
       "keywords": [
         "Java",
         "Python",
@@ -266,24 +212,60 @@
       ]
     },
     {
-      "name": "Tools",
-      "level": "Expert",
+      "name": "AI-Assisted Development",
+      "level": "Advanced",
       "keywords": [
-        "Git",
-        "Github",
-        "Intellij IDEA",
-        "VS Code",
-        "Android Studio"
+        "GitHub Copilot",
+        "Claude Code",
+        "Cursor",
+        "Codex",
+        "Glean"
       ]
     },
     {
-      "name": "Devops",
+      "name": "Cloud & DevOps",
       "level": "Advanced",
       "keywords": [
         "Docker",
         "Kubernetes",
         "AWS",
-        "Ansible"
+        "Ansible",
+        "Terraform",
+        "Jenkins",
+        "OpenShift"
+      ]
+    },
+    {
+      "name": "Observability",
+      "level": "Advanced",
+      "keywords": [
+        "Splunk",
+        "Dynatrace",
+        "ELK Stack",
+        "Grafana",
+        "CloudWatch",
+        "Datadog",
+        "Databricks"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": [
+        "Oracle",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Expert",
+      "keywords": [
+        "Git",
+        "Github",
+        "Gitlab",
+        "Intellij IDEA",
+        "Android Studio"
       ]
     }
   ],
@@ -310,20 +292,6 @@
       "keywords": [
         "PC"
       ]
-    }
-  ],
-  "references": [
-    {
-      "reference": "Guillermo has been a key member of my software engineering team at Cengage. He is our resident Java subject matter expert; serving as both a mentor and an excellent engineer. He has played a large part in the improvement of our development process as well as bringing our aging code up to modern standards. Guillermo is a great team member. Easy to get along with and adds a lot to the our culture. He will be dearly missed on the Gateway team.",
-      "name": "Paul Vaillancourt, Software Engineering Manager at Cengage Group"
-    },
-    {
-      "reference": "Guillermo has been core to the development skill that separates Mystic from its competitors. His wealth of knowledge for technology, and the voracity which he consumes new information is impressive. As someone who has watched his skills grow over the years, and snapped him up to work on many of the interesting projects that Mystic takes on, he is definitely a cut above.",
-      "name": "Andrew Lombardi, Founder and Principal Architect at Mystic Coders"
-    },
-    {
-      "reference": "Guillermo is a top notch Software Engineer, passionate about his work and about tendencies in the Development field. It is always a pleasure to work with him.",
-      "name": "Teresa Guerena, Project Leader at Softtek"
     }
   ]
 }

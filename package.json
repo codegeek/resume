@@ -8,9 +8,9 @@
     "audit": "resume audit resume.json --theme jsonresume-theme-berlin-grid-ats"
   },
   "devDependencies": {
-    "resume-cli": "^3.7.2",
-    "resumed": "^6.1.0",
+    "jsonresume-theme-berlin-grid-ats": "^1.0.1",
     "jsonresume-theme-even": "^0.26.1",
-    "jsonresume-theme-berlin-grid-ats": "^1.0.1"
+    "resume-cli": "^3.7.2",
+    "resumed": "^6.1.0"
   }
 }
