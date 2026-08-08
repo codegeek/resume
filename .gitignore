@@ -1,4 +1,8 @@
 node_modules/
-*.html
+/*.html
 resume.txt
 resume.md
+resume.pdf
+public/
+.idea/
+.claude/

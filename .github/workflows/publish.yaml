@@ -1,0 +1,65 @@
+name: Publish Resume
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Render HTML (readable + ATS themes)
+        run: |
+          npm run render
+          npm run render:ats
+
+      - name: Export Markdown and plain text
+        run: |
+          npm run export:md
+          npm run export:txt
+
+      - name: Render PDF
+        run: npm run render:pdf
+
+      - name: Assemble Pages site
+        run: |
+          mkdir -p public
+          cp pages/index.html public/index.html
+          cp resume.html resume-ats.html resume.pdf resume.md resume.txt resume.json public/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
