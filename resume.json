@@ -42,6 +42,19 @@
       ]
     },
     {
+      "name": "Zillow",
+      "position": "Senior Software Development Engineer",
+      "startDate": "2025-11",
+      "endDate": "2026-08",
+      "url": "https://www.zillow.com",
+      "highlights": [
+        "Worked with the communications platform team to coordinate, develop, and maintain services for sending all communication from Zillow to the clients.",
+        "Developed new system for sending push notifications to mobile devices (iOS, Android) using third parties (Airship).",
+        "Migrated multiple services from legacy platforms and legacy code (Spring Boot upgrades, Kubernetes).",
+        "Leveraged multiple AI resources (Claude code, Cursor, Codex) daily to increase performance, including creating multiple skills and plugins for daily project tracking, and knowledge base with Obsidian."
+      ]
+    },
+    {
       "name": "Zeitview",
       "position": "Senior Software Engineer II",
       "startDate": "2024-10",

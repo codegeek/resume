@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "render": "resumed render resume.json -t jsonresume-theme-even -o resume.html",
+    "render:ats": "resumed render resume.json -t jsonresume-theme-berlin-grid-ats -o resume-ats.html",
+    "export:txt": "resume export resume.txt --format txt",
+    "export:md": "resume export resume.md --format md",
+    "audit": "resume audit resume.json --theme jsonresume-theme-berlin-grid-ats"
+  },
+  "devDependencies": {
+    "resume-cli": "^3.7.2",
+    "resumed": "^6.1.0",
+    "jsonresume-theme-even": "^0.26.1",
+    "jsonresume-theme-berlin-grid-ats": "^1.0.1"
+  }
+}
