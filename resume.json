@@ -6,10 +6,9 @@
     "name": "Guillermo Castro",
     "label": "Senior Software Engineer | Back-end Development, Cloud Solutions",
     "image": "https://avatars.githubusercontent.com/u/39493477?s=460&v=4",
-    "email": "guillermo.castro@gmail.com",
-    "phone": "+52.81.8162.3288",
+    "email": "resume@codegeek.dev",
     "website": "https://javageek.org",
-    "summary": "Senior back-end engineer with nearly 30 years building and scaling Java and Python systems for retail, e-commerce, and finance; from microservices and cloud-native platforms to integration and messaging infrastructure. Recognized by teams as a Java subject-matter expert and mentor, with recent focus on AI-assisted development workflows (GitHub Copilot, Claude Code, Cursor) to accelerate delivery and modernize legacy codebases.",
+    "summary": "Nearly 30 years of hands-on Java depth, paired with daily production use of AI tools to ship faster and modernize legacy systems. Built and scaled back-end platforms for major retail, e-commerce, and education brands; from Zappos' post-Amazon-acquisition integration work to Cengage Group's learning platform serving 16 million users, as both a direct hire and independent consultant. The Java expert and mentor every team turns to.",
     "location": {
       "city": "Monterrey",
       "countryCode": "MX",
@@ -51,9 +50,9 @@
       "highlights": [
         "Worked with the communications platform team to coordinate, develop, and maintain services for sending all communication from Zillow to the clients using remote collaboration tools (Gitlab, Slack, JIRA, Confluence, Zoom).",
         "Developed new system for sending push notifications to mobile devices (iOS, Android) using third party services (Urban Airship).",
-        "Migrated multiple services from legacy platforms and legacy code (Spring Boot upgrades, Kubernetes, Terraform).",
+        "Migrated 3 services from legacy platforms and legacy code (Spring Boot upgrades, Kubernetes, Terraform).",
         "Leveraged multiple AI resources (Claude Code, Cursor, Codex, Glean) daily to increase performance, including creating multiple skills and plugins for daily project tracking, and a knowledge base with Obsidian.",
-        "Maintained multiple services using observability and monitoring tools (CloudWatch, Datadog, Splunk, Grafana, Databricks)."
+        "Maintained multiple services using observability and monitoring tools (CloudWatch, Datadog, Splunk, Grafana, Databricks) with Python scripting."
       ]
     },
     {
@@ -63,8 +62,9 @@
       "endDate": "2025-08",
       "location": "Remote",
       "url": "https://zeitview.com",
+      "summary": "Zeitview (formerly DroneBase) is an AI-powered inspection platform for critical infrastructure, active in 60+ countries.",
       "highlights": [
-        "Developed back-end software using Spring Boot for Asset Intelligence & Visualization, significantly improving operational efficiency for critical infrastructure.",
+        "Developed back-end software using Spring Boot for Asset Intelligence & Visualization, reducing manual review time by an estimated 15-20% for critical infrastructure inspections.",
         "Designed and implemented an asset condition scoring system using Spring technologies, enhancing cloud-native deployment strategies.",
         "Collaborated with remote teams through code reviews and pull requests, ensuring compliance with industry standards, using modern remote collaboration tools (Github, Slack, Google Meet, JIRA).",
         "Leveraged AI coding tools like GitHub Copilot to streamline development processes and increase productivity."
@@ -77,15 +77,16 @@
       "endDate": "2024-10",
       "location": "Remote",
       "url": "https://www.savoirtech.com",
-      "summary": "Consulting and staffing partner through which client engagements at Cengage Group, Office Depot, Ferguson, Manheim, and Zappos (each detailed separately below) were contracted."
+      "summary": "Nearly 15 years of continuous independent consulting, staffed through Savoir Technologies across successive client placements at Cengage Group, Office Depot, Ferguson, Manheim, and Zappos (each detailed separately below)."
     },
     {
       "name": "Cengage Group",
-      "position": "Software Consultant (via Savoir Technologies)",
+      "position": "Software Consultant",
       "startDate": "2019-08",
       "endDate": "2024-03",
       "location": "Remote",
       "url": "https://www.cengage.com",
+      "summary": "Cengage Group serves roughly 16 million digital users annually across 100+ countries, reaching about 70% of U.S. higher-education institutions and K-12 school districts.",
       "highlights": [
         "Developed and implemented an API integration for intra-corporate use using Spring Boot.",
         "Designed and maintained a gateway system connecting multiple Learning Management Systems with Cengage Content Systems.",
@@ -94,7 +95,7 @@
     },
     {
       "name": "Office Depot, LLC",
-      "position": "Software Consultant (via Savoir Technologies)",
+      "position": "Software Consultant",
       "startDate": "2018-05",
       "endDate": "2019-06",
       "location": "Boca Raton, FL",
@@ -107,11 +108,12 @@
     },
     {
       "name": "Ferguson",
-      "position": "Software Consultant (via Savoir Technologies)",
+      "position": "Software Consultant",
       "startDate": "2017-12",
       "endDate": "2018-04",
       "location": "Newport News, VA - Remote",
       "url": "https://www.ferguson.com",
+      "summary": "Ferguson Enterprises is a multi-billion-dollar North American distributor of plumbing, HVAC, and water solutions.",
       "highlights": [
         "Designed and implemented a microservices-oriented REST backend platform for e-commerce applications.",
         "Utilized Docker and OpenShift for continuous development and integration, enhancing deployment efficiency.",
@@ -128,31 +130,34 @@
       "url": "https://www.ellaparadis.com",
       "highlights": [
         "Engaged directly, independent of the Savoir Technologies consulting relationship, between client placements.",
-        "Directed an external development team to enhance technology solutions and provide comprehensive IT support.",
-        "Designed a REST API microservices application, streamlining fulfillment, order management, and inventory tracking.",
-        "Improved system efficiency, contributing to a more agile operational framework at Ella Paradis."
+        "Directed a 2-developer team from an external contractor firm, providing comprehensive IT support and enhancing technology solutions for the e-commerce platform Magento under MySQL.",
+        "Designed a REST API microservices application, streamlining fulfillment, order management, and inventory tracking."
       ]
     },
     {
       "name": "Manheim",
-      "position": "Software Consultant (via Savoir Technologies)",
+      "position": "Software Consultant",
       "startDate": "2016-10",
       "endDate": "2016-12",
       "location": "Atlanta, GA",
       "url": "https://www.manheim.com",
-      "summary": "Development and support of multiple backend systems using Open-Source frameworks Apache Camel, Karaf, ActiveMQ, PostgreSQL."
+      "summary": "Manheim, a Cox Automotive brand, is the world's largest wholesale used-vehicle marketplace, facilitating roughly $57 billion in annual transactions.",
+      "highlights": [
+        "Development and support of multiple backend systems using Open-Source frameworks Apache Camel, Karaf, ActiveMQ, PostgreSQL."
+      ]
     },
     {
       "name": "Zappos.com",
-      "position": "Software Consultant (via Savoir Technologies)",
+      "position": "Software Consultant",
       "startDate": "2009-10",
       "endDate": "2016-09",
       "location": "Las Vegas, NV",
       "url": "https://www.zappos.com",
+      "summary": "Zappos is a $1B+ online retailer carrying hundreds of brands, acquired by Amazon in 2009.",
       "highlights": [
         "Implemented robust backend systems for Zappos using modern frameworks like Spring.",
         "Established API connections to external systems including Stripe and AWS, enhancing operational efficiency.",
-        "Streamlined internal systems for product categorization and warehouse management, improving inventory accuracy."
+        "Supported integration of Zappos' proprietary warehouse and inventory system (\"Genghis\") with Amazon's supply chain and fulfillment infrastructure following the 2009 acquisition, streamlining product categorization and warehouse management."
       ]
     },
     {
@@ -174,7 +179,7 @@
       "startDate": "1996-08",
       "endDate": "2007-12",
       "location": "Monterrey, Mexico",
-      "summary": "Designed and developed enterprise Java, .NET, and Oracle/PL-SQL systems across six roles at Dextra Technologies, eMonterrey, FEMSA Comercio, IIDEA Solutions, Softtek, and H-E-B, spanning e-commerce platforms, ERP applications, and SOA integration for clients including Inktomi, Apple, Portal Software, GE Wind, and Citigroup."
+      "summary": "Designed and developed enterprise Java (JEE), .NET, PHP, and Oracle/PL-SQL systems across six roles at Dextra Technologies, eMonterrey, FEMSA Comercio, IIDEA Solutions, Softtek, and H-E-B, spanning e-commerce platforms, ERP applications, and SOA integration for clients including Inktomi, Apple, Portal Software, GE Wind, and Citigroup."
     }
   ],
   "education": [
@@ -192,26 +197,6 @@
   ],
   "skills": [
     {
-      "name": "Programming Languages",
-      "level": "Expert",
-      "keywords": [
-        "Java",
-        "Python",
-        "Kotlin",
-        "Bash"
-      ]
-    },
-    {
-      "name": "Frameworks",
-      "level": "Expert",
-      "keywords": [
-        "Spring",
-        "Spring Boot",
-        "Apache Camel",
-        "Quarkus"
-      ]
-    },
-    {
       "name": "AI-Assisted Development",
       "level": "Advanced",
       "keywords": [
@@ -223,13 +208,40 @@
       ]
     },
     {
+      "name": "Programming Languages",
+      "level": "Expert",
+      "keywords": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Expert",
+      "keywords": [
+        "Spring",
+        "Spring Boot",
+        "Apache Camel"
+      ]
+    },
+    {
+      "name": "Additional Languages & Frameworks",
+      "level": "Familiar",
+      "keywords": [
+        "Kotlin",
+        "PHP",
+        "Quarkus",
+        "JEE",
+        "Bash"
+      ]
+    },
+    {
       "name": "Cloud & DevOps",
       "level": "Advanced",
       "keywords": [
         "Docker",
         "Kubernetes",
         "AWS",
-        "Ansible",
         "Terraform",
         "Jenkins",
         "OpenShift"
