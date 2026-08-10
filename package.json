@@ -6,7 +6,8 @@
     "export:txt": "resume export resume.txt --format txt",
     "export:md": "resume export resume.md --format md",
     "render:pdf": "node scripts/render-pdf.mjs resume.html resume.pdf",
-    "audit": "resume audit resume.json --theme jsonresume-theme-berlin-grid-ats"
+    "audit": "resume audit resume.json --theme jsonresume-theme-berlin-grid-ats",
+    "build": "node scripts/build-resumes.mjs"
   },
   "devDependencies": {
     "jsonresume-theme-berlin-grid-ats": "^1.0.1",

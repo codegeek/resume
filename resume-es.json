@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "theme": "even"
+  },
+  "basics": {
+    "name": "Guillermo Castro",
+    "label": "Ingeniero de Software Senior | Desarrollo Back-end, Soluciones en la Nube",
+    "image": "https://avatars.githubusercontent.com/u/39493477?s=460&v=4",
+    "email": "guillermo.castro@gmail.com",
+    "phone": "+528181623288",
+    "summary": "Casi 30 años de experiencia en desarrollo de sistemas con Java, combinados con el uso diario en producción de herramientas de IA para entregar más rápido y modernizar sistemas legacy. Construyo y escalo plataformas back-end para marcas líderes de retail, comercio electrónico y educación; desde el trabajo de integración de Zappos tras su adquisición por Amazon, hasta la plataforma educativa de Cengage Group con 16 millones de usuarios, actuando tanto como empleado directo como consultor independiente. El experto y mentor en Java al que todo equipo recurre.",
+    "location": {
+      "city": "Monterrey",
+      "countryCode": "MX",
+      "region": "Nuevo León"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "javageek",
+        "url": "https://www.linkedin.com/in/javageek"
+      },
+      {
+        "network": "Github",
+        "username": "codegeek",
+        "url": "https://github.com/codegeek"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Fusivo LLC",
+      "position": "Propietario",
+      "startDate": "2009-08",
+      "location": "Remoto",
+      "url": "https://fusivo.com",
+      "highlights": [
+        "Fundé Fusivo LLC como vehículo de consultoría corp-to-corp para contratar con Savoir Technologies en proyectos de desarrollo back-end.",
+        "Entregué soluciones de código de alta calidad que mejoraron los sistemas y procesos del cliente, aumentando la eficiencia general.",
+        "Actualmente lo mantengo de forma parcial para administración de facturación y proyectos internos, mientras trabajo de tiempo completo en otro lugar."
+      ]
+    },
+    {
+      "name": "Zillow",
+      "position": "Ingeniero Senior de Desarrollo de Software",
+      "startDate": "2025-11",
+      "endDate": "2026-08",
+      "location": "Remoto",
+      "url": "https://www.zillow.com",
+      "highlights": [
+        "Trabajé con el equipo de la plataforma de comunicaciones para coordinar, desarrollar y mantener servicios de envío de todas las comunicaciones de Zillow a los clientes, usando herramientas de colaboración remota (Gitlab, Slack, JIRA, Confluence, Zoom).",
+        "Desarrollé un nuevo sistema para el envío de notificaciones push a dispositivos móviles (iOS, Android) usando servicios de terceros (Urban Airship).",
+        "Migré 3 servicios desde plataformas y código legacy (actualizaciones de Spring Boot, Kubernetes, Terraform).",
+        "Aproveché múltiples recursos de IA (Claude Code, Cursor, Codex, Glean) a diario para aumentar el rendimiento, incluyendo la creación de varios skills y plugins para el seguimiento diario de proyectos, y una base de conocimiento con Obsidian.",
+        "Mantuve múltiples servicios usando herramientas de observabilidad y monitoreo (CloudWatch, Datadog, Splunk, Grafana, Databricks) con scripting en Python."
+      ]
+    },
+    {
+      "name": "Zeitview",
+      "position": "Ingeniero de Software Senior II",
+      "startDate": "2024-10",
+      "endDate": "2025-08",
+      "location": "Remoto",
+      "url": "https://zeitview.com",
+      "summary": "Zeitview (anteriormente DroneBase) es una plataforma de inspección impulsada por IA para infraestructura crítica, activa en más de 60 países.",
+      "highlights": [
+        "Desarrollé software back-end usando Spring Boot para Asset Intelligence & Visualization, reduciendo el tiempo de revisión manual en un estimado de 15-20% para inspecciones de infraestructura crítica.",
+        "Diseñé e implementé un sistema de puntuación de condición de activos usando tecnologías Spring, mejorando las estrategias de despliegue nativo en la nube.",
+        "Colaboré con equipos remotos mediante revisiones de código y pull requests, asegurando el cumplimiento de estándares de la industria, usando herramientas modernas de colaboración remota (Github, Slack, Google Meet, JIRA).",
+        "Aproveché herramientas de IA para codificación como GitHub Copilot para optimizar los procesos de desarrollo y aumentar la productividad."
+      ]
+    },
+    {
+      "name": "Savoir Technologies, Inc",
+      "position": "Analista de Sistemas de Cómputo",
+      "startDate": "2009-10",
+      "endDate": "2024-10",
+      "location": "Remoto",
+      "url": "https://www.savoirtech.com",
+      "summary": "Casi 15 años de consultoría independiente continua, asignado a través de Savoir Technologies en sucesivas colocaciones con clientes como Cengage Group, Office Depot, Ferguson, Manheim y Zappos (cada uno detallado por separado a continuación)."
+    },
+    {
+      "name": "Cengage Group",
+      "position": "Consultor de Software",
+      "startDate": "2019-08",
+      "endDate": "2024-03",
+      "location": "Remoto",
+      "url": "https://www.cengage.com",
+      "summary": "Cengage Group atiende aproximadamente a 16 millones de usuarios digitales al año en más de 100 países, alcanzando cerca del 70% de las instituciones de educación superior y distritos escolares K-12 de EE. UU.",
+      "highlights": [
+        "Desarrollé e implementé una integración de API para uso intracorporativo usando Spring Boot.",
+        "Diseñé y mantuve un sistema de gateway que conectaba múltiples Sistemas de Gestión de Aprendizaje (LMS) con los Sistemas de Contenido de Cengage.",
+        "Utilicé varias APIs de terceros, incluyendo LTI Advantage, para mejorar la interoperabilidad de herramientas entre plataformas."
+      ]
+    },
+    {
+      "name": "Office Depot, LLC",
+      "position": "Consultor de Software",
+      "startDate": "2018-05",
+      "endDate": "2019-06",
+      "location": "Boca Raton, FL",
+      "url": "https://www.officedepot.com",
+      "highlights": [
+        "Diseñé e implementé microservicios usando Camel y Spring Boot para una integración empresarial sin interrupciones.",
+        "Desplegué aplicaciones en AWS y on-premises usando Kubernetes, Jenkins y Rancher.",
+        "Utilicé Splunk, Dynatrace y ELK para la resolución de problemas, mejorando la confiabilidad y el rendimiento del sistema."
+      ]
+    },
+    {
+      "name": "Ferguson",
+      "position": "Consultor de Software",
+      "startDate": "2017-12",
+      "endDate": "2018-04",
+      "location": "Newport News, VA - Remoto",
+      "url": "https://www.ferguson.com",
+      "summary": "Ferguson Enterprises es un distribuidor norteamericano multimillonario de soluciones de plomería, HVAC y agua.",
+      "highlights": [
+        "Diseñé e implementé una plataforma back-end REST orientada a microservicios para aplicaciones de comercio electrónico.",
+        "Utilicé Docker y OpenShift para el desarrollo e integración continuos, mejorando la eficiencia del despliegue.",
+        "Colaboré con equipos multifuncionales para asegurar la integración continua de nuevas funciones y tecnologías.",
+        "Contribuí al crecimiento de Ferguson Enterprises mejorando la escalabilidad y el rendimiento del sistema."
+      ]
+    },
+    {
+      "name": "Ella Paradis",
+      "position": "Director de Tecnologías de la Información",
+      "startDate": "2017-06",
+      "endDate": "2017-11",
+      "location": "Miami, FL",
+      "url": "https://www.ellaparadis.com",
+      "highlights": [
+        "Me vinculé directamente, de forma independiente a la relación de consultoría con Savoir Technologies, entre colocaciones con clientes.",
+        "Dirigí un equipo de 2 desarrolladores de una firma contratista externa, brindando soporte integral de TI y mejorando las soluciones tecnológicas para la plataforma de comercio electrónico Magento sobre MySQL.",
+        "Diseñé una aplicación de microservicios con API REST, optimizando el cumplimiento de pedidos, la gestión de órdenes y el control de inventario."
+      ]
+    },
+    {
+      "name": "Manheim",
+      "position": "Consultor de Software",
+      "startDate": "2016-10",
+      "endDate": "2016-12",
+      "location": "Atlanta, GA",
+      "url": "https://www.manheim.com",
+      "summary": "Manheim, una marca de Cox Automotive, es el mercado mayorista de vehículos usados más grande del mundo, facilitando aproximadamente $57 mil millones en transacciones anuales.",
+      "highlights": [
+        "Desarrollé y di soporte a múltiples sistemas back-end usando los frameworks de código abierto Apache Camel, Karaf, ActiveMQ, PostgreSQL."
+      ]
+    },
+    {
+      "name": "Zappos.com",
+      "position": "Consultor de Software",
+      "startDate": "2009-10",
+      "endDate": "2016-09",
+      "location": "Las Vegas, NV",
+      "url": "https://www.zappos.com",
+      "summary": "Zappos es un minorista en línea de más de $1 mil millones que maneja cientos de marcas, adquirido por Amazon en 2009.",
+      "highlights": [
+        "Implementé sistemas back-end robustos para Zappos usando frameworks modernos como Spring.",
+        "Establecí conexiones de API con sistemas externos, incluyendo Stripe y AWS, mejorando la eficiencia operativa.",
+        "Apoyé la integración del sistema propietario de almacén e inventario de Zappos (\"Genghis\") con la infraestructura de cadena de suministro y cumplimiento de Amazon tras la adquisición de 2009, optimizando la categorización de productos y la gestión de almacenes."
+      ]
+    },
+    {
+      "name": "LeapFrog Enterprises",
+      "position": "Consultor de Software",
+      "startDate": "2008-01",
+      "endDate": "2009-01",
+      "location": "Emeryville, CA - Remoto",
+      "url": "https://www.leapfrog.com",
+      "highlights": [
+        "Desarrollé servicios basados en SOA para la aplicación Leapfrog Connect, Learning Path, mejorando la participación del usuario y la funcionalidad.",
+        "Utilicé frameworks de código abierto como Spring, Apache CXF y Mule para optimizar la integración de servicios.",
+        "Colaboré con equipos multifuncionales para optimizar consultas de Oracle PL/SQL, mejorando la eficiencia de recuperación de datos en un 30%."
+      ]
+    },
+    {
+      "name": "Experiencia Anterior",
+      "position": "Desarrollador Senior / Consultor de Software",
+      "startDate": "1996-08",
+      "endDate": "2007-12",
+      "location": "Monterrey, México",
+      "summary": "Diseñé y desarrollé sistemas empresariales en Java (JEE), .NET, PHP y Oracle/PL-SQL a lo largo de seis roles en Dextra Technologies, eMonterrey, FEMSA Comercio, IIDEA Solutions, Softtek y H-E-B, abarcando plataformas de comercio electrónico, aplicaciones ERP e integración SOA para clientes como Inktomi, Apple, Portal Software, GE Wind y Citigroup."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Monterrey",
+      "area": "Ingeniería Física",
+      "studyType": "Ingenieria",
+      "startDate": "1991-08",
+      "endDate": "1996-06",
+      "courses": [
+        "Ingeniería Física",
+        "Electrónica"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Desarrollo Asistido por IA",
+      "level": "Avanzado",
+      "keywords": [
+        "GitHub Copilot",
+        "Claude Code",
+        "Cursor",
+        "Codex",
+        "Glean"
+      ]
+    },
+    {
+      "name": "Lenguajes de Programación",
+      "level": "Experto",
+      "keywords": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Experto",
+      "keywords": [
+        "Spring",
+        "Spring Boot",
+        "Apache Camel"
+      ]
+    },
+    {
+      "name": "Lenguajes y Frameworks Adicionales",
+      "level": "Familiarizado",
+      "keywords": [
+        "Kotlin",
+        "PHP",
+        "Quarkus",
+        "JEE",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Nube y DevOps",
+      "level": "Avanzado",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Terraform",
+        "Jenkins",
+        "OpenShift"
+      ]
+    },
+    {
+      "name": "Observabilidad",
+      "level": "Avanzado",
+      "keywords": [
+        "Splunk",
+        "Dynatrace",
+        "ELK Stack",
+        "Grafana",
+        "CloudWatch",
+        "Datadog",
+        "Databricks"
+      ]
+    },
+    {
+      "name": "Bases de Datos",
+      "level": "Avanzado",
+      "keywords": [
+        "Oracle",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Herramientas",
+      "level": "Experto",
+      "keywords": [
+        "Git",
+        "Github",
+        "Gitlab",
+        "Intellij IDEA",
+        "Android Studio"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "fluency": "Fluido"
+    },
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Tecnologías de Software",
+      "keywords": [
+        "Nuevas tecnologías",
+        "Tendencias de la industria"
+      ]
+    },
+    {
+      "name": "Videojuegos",
+      "keywords": [
+        "PC"
+      ]
+    }
+  ]
+}

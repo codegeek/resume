@@ -3,6 +3,13 @@ node_modules/
 resume.txt
 resume.md
 resume.pdf
+resume-es.html
+resume-es.txt
+resume-es.md
+resume-es.pdf
+resume-es-ats.html
+out/
 public/
 .idea/
 .claude/
+.DS_Store
