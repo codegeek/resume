@@ -7,8 +7,8 @@
     "label": "Senior Software Engineer | Back-end Development, Cloud Solutions",
     "image": "https://avatars.githubusercontent.com/u/39493477?s=460&v=4",
     "email": "guillermo.castro@gmail.com",
-    "phone": "+528181623288",
-    "summary": "Nearly 30 years of hands-on Java depth, paired with daily production use of AI tools to ship faster and modernize legacy systems. Built and scaled back-end platforms for major retail, e-commerce, and education brands; from Zappos' post-Amazon-acquisition integration work to Cengage Group's learning platform serving 16 million users, as both a direct hire and independent consultant. The Java expert and mentor every team turns to.",
+    "phone": "+52.81.8162.3288",
+    "summary": "Java developer with nearly 30 years of experience building and modernizing back-end systems for retail, e-commerce, and education platforms, including Zappos and Cengage Group. Known for Spring Boot, microservices, integrations, and cloud-native delivery across large-scale environments serving millions of users.",
     "location": {
       "city": "Monterrey",
       "countryCode": "MX",
@@ -31,155 +31,152 @@
     {
       "name": "Fusivo LLC",
       "position": "Owner",
-      "startDate": "2009-08",
+      "startDate": "2009-08-01",
       "location": "Remote",
       "url": "https://fusivo.com",
-      "highlights": [
-        "Founded Fusivo LLC as a corp-to-corp consulting vehicle to contract with Savoir Technologies on back-end development engagements.",
-        "Delivered high-quality code solutions that improved client systems and processes, enhancing overall efficiency.",
-        "Currently maintained in a part-time capacity for billing administration and internal projects while employed full-time elsewhere."
-      ]
+      "summary": "Founded Fusivo LLC as a corp-to-corp consulting vehicle for development engagements through Savoir Technologies. Delivered code solutions that improved client systems and processes."
     },
     {
       "name": "Zillow",
       "position": "Senior Software Development Engineer",
-      "startDate": "2025-11",
-      "endDate": "2026-08",
+      "startDate": "2025-11-01",
+      "endDate": "2026-08-01",
       "location": "Remote",
       "url": "https://www.zillow.com",
-      "highlights": [
-        "Worked with the communications platform team to coordinate, develop, and maintain services for sending all communication from Zillow to the clients using remote collaboration tools (Gitlab, Slack, JIRA, Confluence, Zoom).",
-        "Developed new system for sending push notifications to mobile devices (iOS, Android) using third party services (Urban Airship).",
-        "Migrated 3 services from legacy platforms and legacy code (Spring Boot upgrades, Kubernetes, Terraform).",
-        "Leveraged multiple AI resources (Claude Code, Cursor, Codex, Glean) daily to increase performance, including creating multiple skills and plugins for daily project tracking, and a knowledge base with Obsidian.",
-        "Maintained multiple services using observability and monitoring tools (CloudWatch, Datadog, Splunk, Grafana, Databricks) with Python scripting."
-      ]
+      "summary": "Developed and maintained communication services for Zillow’s client messaging platform using Spring Boot, AWS, Terraform. Built a push-notification system for iOS and Android devices that delivers 2 million messages per day. Modernized legacy Spring Boot services. Monitored and supported services with CloudWatch, Datadog, Splunk, Grafana, and Databricks."
     },
     {
       "name": "Zeitview",
       "position": "Senior Software Engineer II",
-      "startDate": "2024-10",
-      "endDate": "2025-08",
+      "startDate": "2024-10-01",
+      "endDate": "2025-08-01",
       "location": "Remote",
       "url": "https://zeitview.com",
-      "summary": "Zeitview (formerly DroneBase) is an AI-powered inspection platform for critical infrastructure, active in 60+ countries.",
-      "highlights": [
-        "Developed back-end software using Spring Boot for Asset Intelligence & Visualization, reducing manual review time by an estimated 15-20% for critical infrastructure inspections.",
-        "Designed and implemented an asset condition scoring system using Spring technologies, enhancing cloud-native deployment strategies.",
-        "Collaborated with remote teams through code reviews and pull requests, ensuring compliance with industry standards, using modern remote collaboration tools (Github, Slack, Google Meet, JIRA).",
-        "Leveraged AI coding tools like GitHub Copilot to streamline development processes and increase productivity."
-      ]
+      "summary": "Developed Spring Boot back-end software for Asset Intelligence & Visualization, reducing manual review time by 15-20% for critical infrastructure inspections. Designed an asset condition scoring system using Spring technologies and contributed through code reviews and pull requests in a remote, standards-driven team environment."
     },
     {
       "name": "Savoir Technologies, Inc",
       "position": "Computer Systems Analyst",
-      "startDate": "2009-10",
-      "endDate": "2024-10",
+      "startDate": "2009-10-01",
+      "endDate": "2024-10-01",
       "location": "Remote",
       "url": "https://www.savoirtech.com",
-      "summary": "Nearly 15 years of continuous independent consulting, staffed through Savoir Technologies across successive client placements at Cengage Group, Office Depot, Ferguson, Manheim, and Zappos (each detailed separately below)."
+      "summary": "15 years of continuous independent consulting, staffed through Savoir Technologies across successive client placements at Cengage Group, Office Depot, Ferguson, Manheim, and Zappos."
     },
     {
       "name": "Cengage Group",
       "position": "Software Consultant",
-      "startDate": "2019-08",
-      "endDate": "2024-03",
+      "startDate": "2019-08-01",
+      "endDate": "2024-03-01",
       "location": "Remote",
       "url": "https://www.cengage.com",
-      "summary": "Cengage Group serves roughly 16 million digital users annually across 100+ countries, reaching about 70% of U.S. higher-education institutions and K-12 school districts.",
-      "highlights": [
-        "Developed and implemented an API integration for intra-corporate use using Spring Boot.",
-        "Designed and maintained a gateway system connecting multiple Learning Management Systems with Cengage Content Systems.",
-        "Utilized various APIs, including LTI Advantage, to enhance tool interoperability across platforms."
-      ]
+      "summary": "Developed Spring Boot API integrations for internal use and maintained a gateway connecting multiple Learning Management Systems with Cengage Content Systems. Used LTI Advantage and related APIs and third party tools like Auth0 to improve cross-platform interoperability."
     },
     {
       "name": "Office Depot, LLC",
       "position": "Software Consultant",
-      "startDate": "2018-05",
-      "endDate": "2019-06",
+      "startDate": "2018-05-01",
+      "endDate": "2019-06-01",
       "location": "Boca Raton, FL",
       "url": "https://www.officedepot.com",
-      "highlights": [
-        "Designed and implemented microservices using Camel and Spring Boot for seamless enterprise integration.",
-        "Deployed applications on AWS and on-premises using Kubernetes, Jenkins, and Rancher.",
-        "Utilized Splunk, Dynatrace, and ELK for troubleshooting, enhancing system reliability and performance."
-      ]
+      "summary": "Designed and implemented microservices with Camel and Spring Boot for enterprise integration. Deployed applications across AWS and on-premises environments using Kubernetes, Jenkins, and Rancher, and used Splunk, Dynatrace, and ELK to support troubleshooting and reliability."
     },
     {
       "name": "Ferguson",
       "position": "Software Consultant",
-      "startDate": "2017-12",
-      "endDate": "2018-04",
+      "startDate": "2017-12-01",
+      "endDate": "2018-04-01",
       "location": "Newport News, VA - Remote",
       "url": "https://www.ferguson.com",
-      "summary": "Ferguson Enterprises is a multi-billion-dollar North American distributor of plumbing, HVAC, and water solutions.",
-      "highlights": [
-        "Designed and implemented a microservices-oriented REST backend platform for e-commerce applications.",
-        "Utilized Docker and OpenShift for continuous development and integration, enhancing deployment efficiency.",
-        "Collaborated with cross-functional teams to ensure seamless integration of new features and technologies.",
-        "Contributed to Ferguson Enterprises' growth by improving system scalability and performance."
-      ]
+      "summary": "Designed and implemented a microservices-oriented REST backend platform for e-commerce applications. Used Docker and OpenShift for continuous development and integration, collaborated with cross-functional teams on feature delivery, and contributed to scalability and performance improvements."
     },
     {
       "name": "Ella Paradis",
       "position": "Director of Information Technology",
-      "startDate": "2017-06",
-      "endDate": "2017-11",
+      "startDate": "2017-06-01",
+      "endDate": "2017-11-01",
       "location": "Miami, FL",
       "url": "https://www.ellaparadis.com",
-      "highlights": [
-        "Engaged directly, independent of the Savoir Technologies consulting relationship, between client placements.",
-        "Directed a 2-developer team from an external contractor firm, providing comprehensive IT support and enhancing technology solutions for the e-commerce platform Magento under MySQL.",
-        "Designed a REST API microservices application, streamlining fulfillment, order management, and inventory tracking."
-      ]
+      "summary": "Directed a 2-developer external contractor team supporting Magento under MySQL and designed a REST API microservices application for fulfillment, order management, and inventory tracking."
     },
     {
       "name": "Manheim",
       "position": "Software Consultant",
-      "startDate": "2016-10",
-      "endDate": "2016-12",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-01",
       "location": "Atlanta, GA",
       "url": "https://www.manheim.com",
-      "summary": "Manheim, a Cox Automotive brand, is the world's largest wholesale used-vehicle marketplace, facilitating roughly $57 billion in annual transactions.",
-      "highlights": [
-        "Development and support of multiple backend systems using Open-Source frameworks Apache Camel, Karaf, ActiveMQ, PostgreSQL."
-      ]
+      "summary": "Developed and supported multiple backend systems using Apache Camel, Karaf, ActiveMQ, and PostgreSQL."
     },
     {
       "name": "Zappos.com",
       "position": "Software Consultant",
-      "startDate": "2009-10",
-      "endDate": "2016-09",
+      "startDate": "2009-10-01",
+      "endDate": "2016-09-01",
       "location": "Las Vegas, NV",
       "url": "https://www.zappos.com",
-      "summary": "Zappos is a $1B+ online retailer carrying hundreds of brands, acquired by Amazon in 2009.",
-      "highlights": [
-        "Implemented robust backend systems for Zappos using modern frameworks like Spring.",
-        "Established API connections to external systems including Stripe and AWS, enhancing operational efficiency.",
-        "Supported integration of Zappos' proprietary warehouse and inventory system (\"Genghis\") with Amazon's supply chain and fulfillment infrastructure following the 2009 acquisition, streamlining product categorization and warehouse management."
-      ]
+      "summary": "Implemented backend systems for Zappos using Spring, established API connections with Stripe and AWS, and supported integration of the proprietary warehouse and inventory system with Amazon’s supply chain and fulfillment infrastructure."
     },
     {
       "name": "LeapFrog Enterprises",
       "position": "Software Consultant",
-      "startDate": "2008-01",
-      "endDate": "2009-01",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
       "location": "Emeryville, CA - Remote",
       "url": "https://www.leapfrog.com",
-      "highlights": [
-        "Developed SOA-based services for the Leapfrog Connect application Leaning Path, enhancing user engagement and functionality.",
-        "Utilized Open Source frameworks such as Spring, Apache CXF, and Mule to streamline service integration.",
-        "Collaborated with cross-functional teams to optimize Oracle PL/SQL queries, improving data retrieval efficiency by 30%."
-      ]
+      "summary": "Developed SOA-based services for the Leapfrog Connect application using Spring, Apache CXF, and Mule. Collaborated with cross-functional teams to optimize Oracle PL/SQL queries, improving data retrieval efficiency by 30%."
     },
     {
-      "name": "Earlier Experience",
-      "position": "Senior Developer / Software Consultant",
-      "startDate": "1996-08",
-      "endDate": "2007-12",
+      "name": "H-E-B",
+      "position": "Senior Developer",
+      "startDate": "2005-07-01",
+      "endDate": "2007-12-01",
       "location": "Monterrey, Mexico",
-      "summary": "Designed and developed enterprise Java (JEE), .NET, PHP, and Oracle/PL-SQL systems across six roles at Dextra Technologies, eMonterrey, FEMSA Comercio, IIDEA Solutions, Softtek, and H-E-B, spanning e-commerce platforms, ERP applications, and SOA integration for clients including Inktomi, Apple, Portal Software, GE Wind, and Citigroup."
+      "url": "https://www.heb.com.mx",
+      "summary": "Designed and developed multiple internal systems using Spring, Struts, JEE, WebSphere, Oracle, and MySQL."
+    },
+    {
+      "name": "Softtek",
+      "position": "Senior Developer",
+      "startDate": "2004-06-01",
+      "endDate": "2005-07-01",
+      "location": "Monterrey, Mexico",
+      "url": "https://www.softtek.com",
+      "summary": "Software consulting for Softtek clients in the US, including GE Wind and Citigroup, on-site and remote."
+    },
+    {
+      "name": "IIDEA Solutions",
+      "position": "Software Architect",
+      "startDate": "2003-11-01",
+      "endDate": "2004-02-01",
+      "location": "Monterrey, Mexico",
+      "url": "https://www.iidea.com.mx",
+      "summary": "Designed and implemented ERP applications using .NET, C#, and ASP.NET. Established a robust distributed system authentication infrastructure, ensuring secure access and data integrity. Trained new personnel on software methodologies and programming standards, fostering a culture of excellence."
+    },
+    {
+      "name": "FEMSA Comercio",
+      "position": "Senior Developer",
+      "startDate": "2001-08-01",
+      "endDate": "2003-07-01",
+      "location": "Monterrey, Mexico",
+      "url": "https://www.femsa.com/",
+      "summary": "Designed and deployed multiple e-commerce platforms utilizing ATG Dynamo Commerce Server and J2EE. Established a standardized development environment with CVS, Ant, and Eclipse to streamline processes. Collaborated with external consultants to enhance project outcomes and ensure timely delivery."
+    },
+    {
+      "name": "eMonterrey",
+      "position": "Project Leader",
+      "startDate": "2000-11-01",
+      "endDate": "2001-02-01",
+      "location": "Monterrey, Mexico",
+      "summary": "Designed and implemented an online forum system in PHP. Trained new hires on Object Oriented Programming, Java and UML concepts."
+    },
+    {
+      "name": "Dextra Technologies",
+      "position": "Senior Developer",
+      "startDate": "1997-06-01",
+      "endDate": "2000-10-01",
+      "location": "Monterrey, Mexico",
+      "summary": "Designed and developed multiple Java based systems for Dextra Technologies clients including Inktomi, Apple, Portal Software, and other companies in the financial and tech market."
     }
   ],
   "education": [
@@ -187,64 +184,52 @@
       "institution": "Monterrey Institute of Technology",
       "area": "Engineering Physics",
       "studyType": "B.S.",
-      "startDate": "1991-08",
-      "endDate": "1996-06",
-      "courses": [
-        "Physics Engineering",
-        "Electronics"
-      ]
+      "startDate": "1991-08-01",
+      "endDate": "1996-06-01"
     }
   ],
   "skills": [
     {
-      "name": "AI-Assisted Development",
-      "level": "Advanced",
-      "keywords": [
-        "GitHub Copilot",
-        "Claude Code",
-        "Cursor",
-        "Codex",
-        "Glean"
-      ]
-    },
-    {
-      "name": "Programming Languages",
+      "name": "Software Development",
       "level": "Expert",
       "keywords": [
         "Java",
-        "Python"
-      ]
-    },
-    {
-      "name": "Frameworks",
-      "level": "Expert",
-      "keywords": [
-        "Spring",
         "Spring Boot",
-        "Apache Camel"
-      ]
-    },
-    {
-      "name": "Additional Languages & Frameworks",
-      "level": "Familiar",
-      "keywords": [
-        "Kotlin",
-        "PHP",
-        "Quarkus",
-        "JEE",
-        "Bash"
+        "Spring",
+        "Microservices",
+        "Restful APIs"
       ]
     },
     {
       "name": "Cloud & DevOps",
       "level": "Advanced",
       "keywords": [
-        "Docker",
         "Kubernetes",
         "AWS",
+        "Docker",
         "Terraform",
-        "Jenkins",
-        "OpenShift"
+        "Github",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": [
+        "PostgreSQL",
+        "MariaDB/MySQL",
+        "Oracle",
+        "MongoDB",
+        "Databricks"
+      ]
+    },
+    {
+      "name": "AI-assisted tools",
+      "level": "Advanced",
+      "keywords": [
+        "Claude Code",
+        "Codex",
+        "Omlx"
       ]
     },
     {
@@ -253,56 +238,9 @@
       "keywords": [
         "Splunk",
         "Dynatrace",
-        "ELK Stack",
         "Grafana",
         "CloudWatch",
-        "Datadog",
-        "Databricks"
-      ]
-    },
-    {
-      "name": "Databases",
-      "level": "Advanced",
-      "keywords": [
-        "Oracle",
-        "MySQL",
-        "PostgreSQL"
-      ]
-    },
-    {
-      "name": "Tools",
-      "level": "Expert",
-      "keywords": [
-        "Git",
-        "Github",
-        "Gitlab",
-        "Intellij IDEA",
-        "Android Studio"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Software Technologies",
-      "keywords": [
-        "New technologies",
-        "Industry trends"
-      ]
-    },
-    {
-      "name": "Gaming",
-      "keywords": [
-        "PC"
+        "Datadog"
       ]
     }
   ]
