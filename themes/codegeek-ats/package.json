@@ -1,0 +1,11 @@
+{
+  "name": "jsonresume-theme-codegeek-ats",
+  "version": "1.0.0",
+  "description": "Single-column, parser-friendly JSON Resume theme for ATS submissions",
+  "type": "module",
+  "main": "./index.js",
+  "exports": "./index.js",
+  "keywords": ["jsonresume", "jsonresume-theme", "ats", "resume"],
+  "license": "MIT",
+  "private": true
+}

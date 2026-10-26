@@ -1,19 +1,21 @@
 {
   "private": true,
   "scripts": {
-    "render": "resumed render resume.json -t jsonresume-theme-even -o resume.html",
-    "render:ats": "resumed render resume.json -t jsonresume-theme-berlin-grid-ats -o resume-ats.html",
+    "render": "resumed render resume.json -t jsonresume-theme-codegeek-even -o resume.html",
+    "render:ats": "resumed render resume.json -t jsonresume-theme-codegeek-ats -o resume-ats.html",
     "export:txt": "resume export resume.txt --format txt",
     "export:md": "resume export resume.md --format md",
     "render:pdf": "node scripts/render-pdf.mjs resume.html resume.pdf",
-    "audit": "resume audit resume.json --theme jsonresume-theme-berlin-grid-ats",
+    "render:pdf:ats": "node scripts/render-pdf.mjs resume-ats.html resume-ats.pdf",
+    "audit": "resume audit resume.json --theme jsonresume-theme-codegeek-ats",
     "build": "node scripts/build-resumes.mjs"
   },
   "devDependencies": {
-    "jsonresume-theme-berlin-grid-ats": "^1.0.1",
+    "jsonresume-theme-codegeek-ats": "file:themes/codegeek-ats",
+    "jsonresume-theme-codegeek-even": "file:themes/codegeek-even",
     "jsonresume-theme-even": "^0.26.1",
-    "puppeteer": "^24.43.1",
-    "resume-cli": "^3.7.2",
-    "resumed": "^6.1.0"
+    "puppeteer": "^25.16.0",
+    "resume-cli": "^3.0.8",
+    "resumed": "^7.1.0"
   }
 }

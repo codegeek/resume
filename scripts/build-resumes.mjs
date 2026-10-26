@@ -2,9 +2,10 @@ import { execFileSync } from 'node:child_process';
 import { mkdirSync } from 'node:fs';
 import { resolve } from 'node:path';
 
-// jsonresume-theme-berlin-grid-ats parses "YYYY-MM" dates as UTC midnight but
-// formats them with the system's local timezone, shifting dates back a month
-// west of UTC. Force UTC for the whole process so parsing and formatting agree.
+// Some themes parse "YYYY-MM" dates as UTC midnight but format them with the
+// system's local timezone, shifting dates back a month west of UTC. Force UTC
+// for the whole process so parsing and formatting agree. (The codegeek-ats
+// theme formats dates from the literal string parts and is unaffected.)
 process.env.TZ = 'UTC';
 
 const OUT_DIR = 'out';
@@ -15,8 +16,8 @@ const LANGUAGES = [
 ];
 
 const FORMATS = [
-  { name: 'regular', theme: 'jsonresume-theme-even', suffix: '' },
-  { name: 'ats', theme: 'jsonresume-theme-berlin-grid-ats', suffix: '-ats' },
+  { name: 'regular', theme: 'jsonresume-theme-codegeek-even', suffix: '' },
+  { name: 'ats', theme: 'jsonresume-theme-codegeek-ats', suffix: '-ats' },
 ];
 
 function run(command, args) {

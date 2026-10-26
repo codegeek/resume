@@ -1,0 +1,12 @@
+{
+  "name": "jsonresume-theme-codegeek-even",
+  "version": "1.0.0",
+  "description": "Compact-print wrapper around jsonresume-theme-even (keeps photo and modern layout)",
+  "type": "module",
+  "main": "./index.js",
+  "exports": "./index.js",
+  "keywords": ["jsonresume", "jsonresume-theme", "resume"],
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": { "jsonresume-theme-even": "^0.26.1" }
+}
